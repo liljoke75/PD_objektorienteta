@@ -1,0 +1,4 @@
+Edgars,Jūra,admin,23
+Juris,Kalninš,admin,31
+Kristaps,Vācietis,admin,55
+Viktors,Lauva,admin,24
